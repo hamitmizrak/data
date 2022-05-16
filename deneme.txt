@@ -1,2 +1,2 @@
-1.satır
+clone satır
 2.satır
